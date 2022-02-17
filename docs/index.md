@@ -1,15 +1,45 @@
-# Your Documentation Title
+# Museum by [Aayush Deo](https://aayushdeo.com)
 
-A description might go here.
+### [GitHub Repository](https://github.com/aayronaayush/alt-realities-project-1)
 
-## Sub Heading
+For this project I decided to create a Museum exhibition space. Eventhough, this project sounds simple, it was challenging undertaking due to the recreation of the due complexities in lighting and arrangement of the pieces.
 
-Some more text.
+I decided to go for a more modern and minimalist look and feel for the museum. Two walls have paintings on them and the third wall has a geometric pattern that I feel will make a for great background for photos. A plant in the corner of the space gives the space a natural aura.
 
-### Another sub sub heading
+## Assets
+The assets used in the project are a combination of assets from the Unity Asset Store, object created using the  probuilder tools.
 
-[This is a link](#)
+Materials for the project were created using a colors and textures downloaded from google images.
 
-![This is an image](https://c.tenor.com/gc2lhAqqhTUAAAAC/cat-hi.gif)
+Artworks used in the exhibition space were also created from scratch using probuilder cubes and images used has basemaps on the individual paints.
 
-*Note that if your images are stored git lfs, you can't access them via relative path in github pages.  You should get the full link to the image by viewing it in your remote repo and copying the link*
+## Screenshots
+### Exterior
+![Exhibition Space Exterior](../images/room.png)
+
+<br /> <br />
+
+### Wall with three painting
+![Three Painting Wall](../images/3_paintings.png)
+
+<br /> <br />
+
+### Wallpaper wall
+![Wallpaper Wall](../images/wallpaper.png)
+
+
+<br /> <br />
+
+### Exit
+
+![Exit](../images/exit.png)
+
+<br /> <br />
+
+### Wall with paintings
+![Two Walls](../images/painting_walls.png)
+
+<br /> <br />
+
+### Sculpture
+![Sculpture](../images/sculpture.png)

@@ -1,11 +1,6 @@
-# Your project title
+# Musuem Exhibition
 
-A short description.
+Under the source directory, you will find the unity source code for a museum exhibition created as part of the alternate realities class.  
 
 ## Technical setup instructions
-
-Some special setup requirements. 
-
-## Special controls 
-
-or other technical need to know things that are crucial to successfully operate/navigate the experience
+There are no extra steps that you need to follow to run this experience, once you open the source directory in Unity you can hit play for the project to start.
