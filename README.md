@@ -1,4 +1,4 @@
-# Musuem Exhibition
+# Museum Exhibition
 
 Under the source directory, you will find the unity source code for a museum exhibition created as part of the alternate realities class.  
 
